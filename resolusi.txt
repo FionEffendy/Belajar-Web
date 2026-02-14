@@ -2,3 +2,4 @@ resolusi taun ini :
 - belajar html
 - belajar css
 - belajar java script
+- belajar pemrograman lain
