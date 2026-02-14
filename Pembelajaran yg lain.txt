@@ -1,0 +1,5 @@
+Belajar :
+- Sql
+- API
+- Java
+- Kotlin
