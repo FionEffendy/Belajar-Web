@@ -2,3 +2,5 @@ Belajar :
 - Flutter
 - Sql
 - API
+- Java
+- Kotlin
